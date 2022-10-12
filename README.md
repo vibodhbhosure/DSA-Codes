@@ -16,7 +16,8 @@
 
 - Writing the author's name and the date modified is a must.
 
-![alt text](https://user-images.githubusercontent.com/90573878/193465305-98a84b35-9c1a-4a27-8218-02e4017a2b21.png)
+![image](https://user-images.githubusercontent.com/52785828/195370761-8ea8fe9c-df23-46f3-b253-b2f297ad0e8d.png)
+
 
 - Filename should be proper. If there are more than 2 words than the first letter of each word must be capital. Example: `1_TwoSum.cpp`
 
