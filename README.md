@@ -27,7 +27,8 @@
  
 1. Fork this Repository. <br>
 2. Clone the Repository. <br>
-3. cd DSA-Codes
+3.  Go to the directory <br>
+     `cd DSA-Codes`
 4. Create a new branch. <br>
    `git checkout -b <your_branch_name>`
 5. Make changes.
