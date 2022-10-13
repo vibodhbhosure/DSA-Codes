@@ -27,11 +27,12 @@
  
 1. Fork this Repository. <br>
 2. Clone the Repository. <br>
-3. Create a new branch. <br>
+3. cd DSA-Codes
+4. Create a new branch. <br>
    `git checkout -b <your_branch_name>`
-4. Make changes.
+5. Make changes.
 
-5. Stage your changes and commit
+6. Stage your changes and commit
 
 ```
 git add -A
@@ -39,8 +40,8 @@ git add -A
 git commit -m "<your_commit_message>"
 ```
 
-6. Push your local commits to the remote repo. <br>
+7. Push your local commits to the remote repo. <br>
    `git push -u origin <your_branch_name>`
-7. Create a Pull Request.
+8. Create a Pull Request.
 
 Congratulations! 🎉 you've made your contribution.
