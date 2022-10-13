@@ -4,6 +4,14 @@
 
 ### Feel free to use this project to make your first contribution to an open-source project on GitHub. <br><br> This repository is open to all members of the GitHub community. Any member can contribute to this project!
 
+<h2>Instructions to Contribute</h2>
+The Open source Community is awesome, to be a part of it you can start contributing and help people with their projects, here's a guide to do exactly that!
+before you start here is something you should know:
+<br>
+1. <a href = "https://hacktoberfest.com/participation/">Hacktoberfest guide</a> <br>
+2. <a href = "https://opensource.guide/code-of-conduct/">Code of Conduct</a>
+
+
 ## Guidelines
 
 - You can contribute by adding solution to a problem/ By adding comments to a code.
