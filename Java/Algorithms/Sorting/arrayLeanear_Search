@@ -1,0 +1,27 @@
+//WAP to input a roll no ,if the roll no existes in the set of roll nos. i.e array roll[],print
+//"you are selected...." else print "You are NOT selected".Using leaner search.
+
+import java.util.*;
+class arrayLeanear_Search
+{
+    public static void main(String args[])
+    {
+        Scanner sc=new Scanner(System.in);
+        int roll[]={111,101,222,254,121,191,201,289,224,236};
+        int flag=0;
+        System.out.println("Please enter a number");
+        int num=sc.nextInt();
+        int len=roll.length;
+        for(int i=0;i<len;i++)
+        {
+            if(roll[i]==num)
+            {
+                System.out.println("You are selected...");
+                flag=1;
+                break;
+            }
+        }
+        if(flag==0)
+        System.out.println("You are NOT selected");
+    }
+}      
